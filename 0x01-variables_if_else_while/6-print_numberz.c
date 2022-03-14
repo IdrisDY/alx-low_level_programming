@@ -1,15 +1,16 @@
 #include <stdio.h>
 
 /**
- * main - print single digit
+ * main - main code block
  *
  * Desciption: print single digit
  *
- * return:  always 0(sucess)
+ * Return:  always 0(sucess)
  */
 
 int main(void)
 {
+	
 	int i;
 	i = 48;
 
