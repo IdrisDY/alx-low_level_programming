@@ -3,7 +3,7 @@
 /**
  * main - print single digits
  * Descripton: print single digits
- * return: 0
+ * return: 0 (exit)
  */
 
 int main(void)
