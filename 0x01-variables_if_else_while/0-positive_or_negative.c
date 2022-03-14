@@ -2,10 +2,9 @@
 #include <stdlib.h>
 #include <time.h>
 /**
-* Description - print if it is positive,negative or zero
 * main - main code block
-*
-* return:0
+* Description - print if it is positive,negative or zero
+* Return:0
 */
 int main(void)
 {
