@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <time.h>
 /**
-* Description - code to return a random number and print if it is positive,negative or zero
+* Description - print if it is positive,negative or zero
 * more headers goes there 
 * main -containing the main code block
 * betty style doc for function main goes there 
@@ -11,13 +11,13 @@ int main(void)
 {
 int n;
 
-	srand(time(0));
-	n = rand() - RAND_MAX / 2;
-	if (n > 0)
-	printf("%i is positive\n", n);
-	else if (n < 0)
-	printf("%i is negative\n", n);   
-	else
-	printf("%i is zero\n", n);
-	return (0);
+srand(time(0));
+n = rand() - RAND_MAX / 2;
+if (n > 0)
+printf("%i is positive\n", n);
+else if (n < 0)
+printf("%i is negative\n", n);   
+else
+printf("%i is zero\n", n);
+return (0);
 }
