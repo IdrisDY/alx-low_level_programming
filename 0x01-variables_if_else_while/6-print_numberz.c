@@ -3,7 +3,7 @@
 /**
  * main - print single digit
  * Desciption: print single digit
- * return: 0(sucess)
+ * return:  always 0(sucess)
  */
 
 int main(void)
