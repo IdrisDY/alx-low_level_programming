@@ -2,11 +2,11 @@
 #include <stdlib.h>
 #include <time.h>
 /** 
- * main - main block of code
- * Description - print alphabetvin lowercase
- * return : 0
- *
- */
+* main - main block of code
+* Description - print alphabetvin lowercase
+* return : 0
+*
+*/
 
 int main(void)
 {
