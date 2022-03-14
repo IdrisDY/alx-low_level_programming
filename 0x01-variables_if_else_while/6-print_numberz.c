@@ -2,7 +2,9 @@
 
 /**
  * main - print single digit
+ *
  * Desciption: print single digit
+ *
  * return:  always 0(sucess)
  */
 
