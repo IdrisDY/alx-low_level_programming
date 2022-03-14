@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 /**
- * main - main code black
+ * main - print alphabet letters in reverse
  * Description: reverse the letters and printout
- * return: always 0(sucess)
+ * Return: Always 0 (success)
  */
 
 int main(void)
