@@ -2,10 +2,10 @@
 
 /**
  * main - print single digits
- * Descripton: print single digits
+ * Descripton: print single digits between
+ * 48 and 58
  * return: 0 (exit)
  */
-
 int main(void)
 {
 	int i;

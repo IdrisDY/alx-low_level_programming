@@ -1,12 +1,10 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
-
 /** 
  * main - main block of code
- * description - print alphabet
- * in lowercase
- *
+ * Description - print alphabetvin lowercase
+ * return : 0
  *
  */
 

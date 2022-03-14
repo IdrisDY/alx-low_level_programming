@@ -3,7 +3,7 @@
 /**
  * main - print the latterss of the alphabet
  * Description: reverse the letters and printout
- * return: 0
+ * return: 0(sucess)
  */
 
 int main(void)

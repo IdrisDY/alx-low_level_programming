@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <time.h>
 /* main-main block contains code */
-
+/* Description : print last number in random */
 /* betty style doc for function main goes there */
 int main(void)
 {
