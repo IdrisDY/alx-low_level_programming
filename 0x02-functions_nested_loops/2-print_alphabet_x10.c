@@ -5,7 +5,7 @@
 void print_alphabet_x10(void)
 {
 int no = 0;
-while(no < 10){
+while(no < 9){
 
 	char ch;
 
