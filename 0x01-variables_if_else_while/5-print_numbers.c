@@ -4,7 +4,7 @@
  * main - print single digits
  * Descripton: print single digits between
  * 48 and 58
- * return: 0 (exit)
+ * return: always 0 (exit)
  */
 int main(void)
 {
