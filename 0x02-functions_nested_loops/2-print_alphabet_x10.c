@@ -20,5 +20,3 @@ while(no < 10){
 
 	_putchar('\n');
 }
-
-}
