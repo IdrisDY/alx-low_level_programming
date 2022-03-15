@@ -2,9 +2,9 @@
 
 /**
  * main - main prints _putchar
- * Desription : print _putchar
+ * putchar: print _putchar
  *
- * Return :  0 (Success)
+ * Return : input characters
  */
 int main(void)
 {
