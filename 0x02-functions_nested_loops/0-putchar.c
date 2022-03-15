@@ -3,7 +3,7 @@
 /**
  *main - main code block
  * Desription : print _putchar
- * return : 0
+ * return : 0 means exit program
  */
 int main(void)
 ;{
@@ -16,7 +16,7 @@ int main(void)
 	_putchar('a');
 	_putchar('r');
 	_putchar('\n');
-	
+
 	return (0);
 
 }
