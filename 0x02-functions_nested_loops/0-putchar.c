@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
- *main - main code block
  * Desription : print _putchar
- * Return : 0 (program success)
+ *
+ * Return : 0 success
  */
 int main(void)
 {
