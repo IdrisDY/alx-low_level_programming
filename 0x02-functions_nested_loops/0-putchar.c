@@ -3,7 +3,7 @@
 /**
  *main - main code block
  * Desription : print _putchar
- * return : 0 means exit program
+ * Return : 0 (program success)
  */
 int main(void)
 {
