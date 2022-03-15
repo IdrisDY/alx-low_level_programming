@@ -3,9 +3,7 @@
 /**
  * main - main entry point
  *
- * putchar: print _putchar
- *
- * Return : always 0 (Success)
+ * Return : Always 0
  */
 
 int main(void)
