@@ -2,11 +2,12 @@
 
 /**
  * main - main prints _putchar
- 
+ *
  * putchar: print _putchar
  *
  * Return : 0 (exit)
  */
+
 int main(void)
 {
 	_putchar('_');
