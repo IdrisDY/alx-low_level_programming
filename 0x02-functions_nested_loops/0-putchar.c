@@ -1,11 +1,12 @@
 #include "main.h"
 
 /**
- * main - main prints _putchar
- * putchar: print _putchar
+ * main- prints to stdout
  *
- * Return : input characters
+ * Return : Always 0
+ * means sucess
  */
+
 int main(void)
 {
 	_putchar('_');
