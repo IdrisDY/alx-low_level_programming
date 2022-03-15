@@ -6,7 +6,7 @@
  * return : 0 means exit program
  */
 int main(void)
-;{
+{
 	_putchar('_');
 	_putchar('p');
 	_putchar('u');
