@@ -3,8 +3,7 @@
 /**
  * main- prints to stdout
  *
- * Return : Always 0
- * means sucess
+ * Return : Always 0 means sucess
  */
 
 int main(void)
