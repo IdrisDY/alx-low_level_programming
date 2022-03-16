@@ -3,9 +3,9 @@
 /**
  * main- prints to stdout
  *
- * Description : prints putchar
+ * Description : prints _putchar
  *
- * Return : Always 0 means sucess
+ * Return : 0 on success
  */
 
 int main(void)
