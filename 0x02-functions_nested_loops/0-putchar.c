@@ -3,6 +3,8 @@
 /**
  * main- prints to stdout
  *
+ * Description : prints putchar
+ *
  * Return : Always 0 means sucess
  */
 
