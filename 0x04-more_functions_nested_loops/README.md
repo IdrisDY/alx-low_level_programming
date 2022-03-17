@@ -1,0 +1,1 @@
+isupper returns if uppercase
