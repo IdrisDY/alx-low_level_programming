@@ -6,5 +6,7 @@
  */
 void _puts(char *str)
 {
-	_putchar("%s\n", *str);
+	
+	fputs(str, stdout);
+	fputs("\n", stdout);
 }
