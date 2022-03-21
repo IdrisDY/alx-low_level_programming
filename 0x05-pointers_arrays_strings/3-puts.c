@@ -1,3 +1,4 @@
+#include <stdio.h>
 #include "main.h"
 /**
  *_puts - function to print a string to
