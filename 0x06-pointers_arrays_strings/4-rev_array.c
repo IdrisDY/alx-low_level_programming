@@ -1,23 +1,27 @@
 #include "main.h"
 
 /**
-* _strcmp - compare
-* @s1 : pointerto char params
-* @s2 : pointer to char params
-* Return: *dest
+* reverse_array - reverse
+* @a : pointer to int params
+* @n : pointer to int params
+* Return: no
 */
 
-int _strcmp(char *s1, char *s2)
+void reverse_array(int *a, int n)
 {
 	int i;
-	int R;
+	int j;
+	int tmp;
 
 	i = 0;
+	j = n - 1;
 
-	while (s1[i] == s2[i] && (s1[i] != '\0' || s2[i] != '\0'))
+	while (i < j)
 	{
+		tmp = a[i];
+		a[i] = a[j];
+		a[j] = tmp;
 		i++;
+		j--;
 	}
-	R = s1[i] - s2[i];
-	return (R);
 }
